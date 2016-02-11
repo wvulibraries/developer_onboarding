@@ -84,10 +84,21 @@ _Note: I am working towards an exhaustive list. Yes this is intimidating but I w
 * Web, Servers, Apache
 * Web, Servers, Nginx
 
+## Project Hydra
+
+* [Project Hydra homepage](http://projecthydra.org/)
+  - [Hierarchy of Promises](https://wiki.duraspace.org/display/hydra/Hydra+Stack+-+The+Hierarchy+of+Promises)
+  - [Intellectual Property Licensing and Ownership](https://wiki.duraspace.org/display/hydra/Hydra+Project+Intellectual+Property+Licensing+and+Ownership)
+  - [Wiki](https://wiki.duraspace.org/display/hydra/The+Hydra+Project)
+* ProjectHydra on Github
+  - [Stable](https://github.com/projecthydra) - code that Project Hydra is committed to maintain
+  - [Labs](https://github.com/projecthydra-labs) - code that is in various stages of completion; No committment to maintain
+
 ## Recommended Reading
 
 * [Practical Object Oriented Design in Ruby](http://www.poodr.com/)
 * The Pragmatic Programmer
+* [Semantic Web for the Working Ontologist](http://www.amazon.com/Semantic-Web-Working-Ontologist-Effective/dp/0123735564)
 
 ## Collaboration
 
