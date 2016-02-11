@@ -67,6 +67,7 @@ _Note: I am working towards an exhaustive list. Yes this is intimidating but I w
 * Ruby
 * Ruby / Bundler
 * Ruby / Debugging
+* Ruby / Gemfile.lock
 * Ruby / Gems
 * Ruby / Gems / Toolbox
 * Ruby / Pry
@@ -125,7 +126,7 @@ _Note: I am working towards an exhaustive list. Yes this is intimidating but I w
 * Google Docs
 * HipCat
 * Design/Planning Meetings
-* Semantic Versioning
+* Semantic Versioning - https://semver.org
 * Stand Up Meetings
 * Style Guides
 * Style Guides / Automation
