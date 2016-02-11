@@ -4,6 +4,9 @@ The goal of this repository is to provide resources for new developers at the He
 
 ## Text Editor or Integrated Development Environment (IDE)
 
+Your text editor is a personal experience and something to consider.
+It is also something you should be prepared to invest energy in learning more about.
+
 At the Hesburgh Library the following text editors are used:
 
 * [Atom](https://atom.io/)
@@ -26,8 +29,6 @@ There are extensive plugins.
 
 RubyMine is an IDE. Its much more heavy weight but provides the power of an IDE.
 You will still want a text editor, because sometimes you will need lightweight text editing.
-
-Your text editor is a personal experience and one to consider.
 
 ## Training Resources
 
@@ -66,7 +67,10 @@ _Note: I am working towards an exhaustive list. Yes this is intimidating but I w
 * Ruby, Gems, Toolbox
 * Ruby, Pry
 * Ruby, Rake
-* Ruby, Rspec
+* Ruby, Testing
+* Ruby, Testing, MiniTest
+* Ruby, Testing, Rspec
+* Ruby, Testing, Capybara
 * Ruby, Version Management
 * Testing
 * Testing, Acceptance
