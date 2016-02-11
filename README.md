@@ -21,7 +21,7 @@ There are extensive plugins.
 
 Atom is a great choice as it is open-source and free.
 It is built on web technologies (i.e. HTML, CSS, and JS).
-There are extensive plugins, often under rapid and perhaps volatile development.
+There are extensive plugins / often under rapid and perhaps volatile development.
 
 Sublime Text is under active development but is not open-source nor free.
 We can get a license if you are interested.
@@ -32,7 +32,7 @@ You will still want a text editor, because sometimes you will need lightweight t
 
 ## Training Resources
 
-These are some excellent walk-through resources.
+These are some free and excellent walk-through resources.
 
 * [Codewars - Ruby](http://www.codewars.com/?language=ruby) - Learn some of the fundamentals of Ruby
 * [The Odin Project - Ruby on Rails](http://www.theodinproject.com/ruby-on-rails) - Learn Ruby on Rails by coding
@@ -43,50 +43,56 @@ These are some excellent walk-through resources.
 _Note: I am working towards an exhaustive list. Yes this is intimidating but I want to then work towards a logical presentation._
 
 * Command Line
-* Command Line, Dotfiles
-* Command Line, SSH
+* Command Line / Dotfiles
+* Command Line / SSH
+* Command Line / Bash
+* Command Line / Zsh
 * Deployment
-* Deployment, Application Keys
-* Deployment, Jenkins
+* Deployment / Application Keys
+* Deployment / Jenkins
+* Deployment / Documentation
 * Homebrew
-* Persistence, Databases, MySQL
-* Persistence, Databases, Sqlite
-* Persistence, Fedora Commons
-* Persistence, Redis
-* Persistence, SOLR
+* Go
+* Persistence / Databases / MySQL
+* Persistence / Databases / Sqlite
+* Persistence / Fedora Commons
+* Persistence / Redis
+* Persistence / SOLR
 * Rails
-* Rails, API Documentation
-* Rails, Application Keys
-* Rails, Console
-* Rails, Deployment
-* Rails, Guides
+* Rails / API Documentation
+* Rails / Application Keys
+* Rails / Console
+* Rails / Deployment
+* Rails / Guides
 * Ruby
-* Ruby, Bundler
-* Ruby, Debugging
-* Ruby, Gems
-* Ruby, Gems, Toolbox
-* Ruby, Pry
-* Ruby, Rake
-* Ruby, Testing
-* Ruby, Testing, MiniTest
-* Ruby, Testing, Rspec
-* Ruby, Testing, Capybara
-* Ruby, Version Management
+* Ruby / Bundler
+* Ruby / Debugging
+* Ruby / Gems
+* Ruby / Gems / Toolbox
+* Ruby / Pry
+* Ruby / Rake
+* Ruby / Testing
+* Ruby / Testing / MiniTest
+* Ruby / Testing / Rspec
+* Ruby / Testing / Capybara
+* Ruby / Version Management
 * Testing
-* Testing, Acceptance
-* Testing, Functional
-* Testing, Unit
-* Version Control, Git
-* Web, CSS
-* Web, CSS, Frameworks
-* Web, Developer Tools
-* Web, HTML
-* Web, Javascript, jQuery
-* Web, Javascript, ReactJS
-* Web, Security
-* Web, Servers
-* Web, Servers, Apache
-* Web, Servers, Nginx
+* Testing / Acceptance
+* Testing / Functional
+* Testing / Unit
+* Version Control / Git
+* Web / CSS
+* Web / CSS / Frameworks
+* Web / Developer Tools
+* Web / HTML
+* Web / HTML / Semantic Markup
+* Web / HTML / Data Attributes
+* Web / Javascript / jQuery
+* Web / Javascript / ReactJS
+* Web / Security
+* Web / Servers
+* Web / Servers / Apache
+* Web / Servers / Nginx
 
 ## Project Hydra
 
@@ -107,31 +113,46 @@ _Note: I am working towards an exhaustive list. Yes this is intimidating but I w
 ## Collaboration
 
 * Code of Conduct
+* Code Review
+* Documentation
+* Documentation / Ruby
 * Daily Status Updates
 * Git
-* Git, Commit Messages
-* Git, Github
-* Git, Pull Requests
+* Git / Commit Messages
+* Git / Github
+* Git / Github / Pull Requests
+* Git / Github / Issues
 * Google Docs
+* HipCat
+* Design/Planning Meetings
 * Semantic Versioning
-* Stand Up
+* Stand Up Meetings
 * Style Guides
-* Style Guides, Automation
+* Style Guides / Automation
 * Trello
 
 ## Useful Syntaxes
 
-* Dot Notation (.dot)
-* JSON (.json, .js)
-* JSON-LD (.json)
-* Markdown (.md)
-* RDF N-Triples (.nt)
+* Dot Notation (`.dot`)
+  * Graphviz (available via Homebrow) is useful for viewing `dot` files
+* JSON (`.json`, `.js`)
+* JSON-LD (`.json`)
+* JSON-API (`.json`)
+* Markdown (`.md`)
+* PlantUML (`.puml`)
+* RDF N-Triples (`.nt`)
 * Regular Expressions (REGEX)
-* RSpec (\_spec.rb)
-* Ruby (.rb)
+* RSpec (`\_spec.rb`)
+* Ruby (`.rb`)
 * Schema.org
-* YAML (.yml, .yaml)
+* XML (`.xml`)
+* YAML (`.yml`, `.yaml`)
 
 ## Bootstrapping
+
+In our ideal world / we would have a single script to run to install/launch a given development context.
+In some cases / we have VMs that can be spun up for development.
+
+### Options to Explore
 
 * https://github.com/thoughtbot/laptop
