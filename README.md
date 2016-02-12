@@ -43,6 +43,7 @@ These are some free and excellent walk-through resources.
 _Note: I am working towards an exhaustive list. Yes this is intimidating but I want to then work towards a logical presentation._
 
 * Command Line
+* Command Line / Configuring Your Experience
 * Command Line / Dotfiles
 * Command Line / SSH
 * Command Line / Bash
@@ -59,20 +60,27 @@ _Note: I am working towards an exhaustive list. Yes this is intimidating but I w
 * Persistence / Redis
 * Persistence / SOLR
 * Rails
+* Rails / ActiveRecord
 * Rails / API Documentation
 * Rails / Application Keys
 * Rails / Console
 * Rails / Deployment
 * Rails / Guides
+* Rails / ProjectHydra
+* Rails / ProjectHydra / Blacklight
+* Rails / ProjectHydra / ActiveFedora
 * Ruby
 * Ruby / Bundler
 * Ruby / Debugging
+* Ruby / Documentation
+* Ruby / Documentation / Yard
 * Ruby / Gemfile.lock
 * Ruby / Gems
 * Ruby / Gems / Toolbox
 * Ruby / Pry
 * Ruby / Rake
 * Ruby / Testing
+* Ruby / Testing / Code Coverage
 * Ruby / Testing / MiniTest
 * Ruby / Testing / Rspec
 * Ruby / Testing / Capybara
