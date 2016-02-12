@@ -151,8 +151,8 @@ _Note: I am working towards an exhaustive list. Yes this is intimidating but I w
 
 ## Bootstrapping
 
-In our ideal world / we would have a single script to run to install/launch a given development context.
-In some cases / we have VMs that can be spun up for development.
+In our ideal world we would have a single script to run to install/launch a given development context.
+In some cases we have VMs that can be spun up for development.
 
 ### Options to Explore
 
