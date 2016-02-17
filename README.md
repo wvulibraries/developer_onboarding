@@ -157,6 +157,13 @@ _Note: I am working towards an exhaustive list. Yes this is intimidating but I w
 * XML (`.xml`)
 * YAML (`.yml`, `.yaml`)
 
+## Software
+
+* [HipChat](https://www.hipchat.com/downloads) - chat client for Library
+* [Sequel Pro](http://www.sequelpro.com/) - mySQL OS X client
+* [Github Desktop](https://desktop.github.com/) - Git and Github OS X client
+* [Flycut](https://github.com/termiT/flycut) - A clipboard manager with 99 paste buffers
+
 ## Bootstrapping
 
 In our ideal world we would have a single script to run to install/launch a given development context.
