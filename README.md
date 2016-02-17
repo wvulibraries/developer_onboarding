@@ -170,10 +170,15 @@ _Note: I am working towards an exhaustive list. Yes this is intimidating but I w
 * [Skype](http://www.skype.com/en/download-skype/skype-for-mac/) - Our primary means of video calling
 * [Xcode](https://itunes.apple.com/us/app/xcode/id497799835) - Needed in order to build development dependencies
 
+### Command Line Tools
+
+* [Homebrew](http://brew.sh) - Package manager for OS X
+
 ### Optional Utilities
 * [Anki](http://ankisrs.net/) - Intelligent flash card tool
 * [Caffeine](http://lightheadsw.com/caffeine/) - Keep your Mac from falling asleep, occasionally useful
 * [ESCMenuExtra](http://esc.nd.edu/mac/menuextra.html) - Connect to SMB mounts on campus
+* [Graphviz](http://graphviz.org) - For viewing `dot` notation files; Installable via `homebrew`
 * [f.lux](https://justgetflux.com/) - Changes the screen color temperature based on the time of day, reduces eyestrain
 * [SelfControl](https://selfcontrolapp.com/) - Block access to websites for a period of time
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - Set up virtual machines for testing and provisioning
