@@ -159,10 +159,37 @@ _Note: I am working towards an exhaustive list. Yes this is intimidating but I w
 
 ## Software
 
-* [HipChat](https://www.hipchat.com/downloads) - chat client for Library
-* [Sequel Pro](http://www.sequelpro.com/) - mySQL OS X client
-* [Github Desktop](https://desktop.github.com/) - Git and Github OS X client
+### Essentials
+* [Cyberduck](https://cyberduck.io/) - Copy files via FTP, SCP, S3, etc.
 * [Flycut](https://github.com/termiT/flycut) - A clipboard manager with 99 paste buffers
+* [Github Desktop](https://desktop.github.com/) - Git and Github OS X client
+* [Google Chrome](https://www.google.com/chrome/browser/desktop/) - Our primary browser for development
+* [HipChat](https://www.hipchat.com/downloads) - chat client for Library
+* [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) - Secondary browser
+* [Skitch](https://evernote.com/skitch/) - Annotate screen shots
+* [Skype](http://www.skype.com/en/download-skype/skype-for-mac/) - Our primary means of video calling
+* [Xcode](https://itunes.apple.com/us/app/xcode/id497799835) - Needed in order to build development dependencies
+
+### Optional Utilities
+* [Anki](http://ankisrs.net/) - Intelligent flash card tool
+* [Caffeine](http://lightheadsw.com/caffeine/) - Keep your Mac from falling asleep, occasionally useful
+* [ESCMenuExtra](http://esc.nd.edu/mac/menuextra.html) - Connect to SMB mounts on campus
+* [f.lux](https://justgetflux.com/) - Changes the screen color temperature based on the time of day, reduces eyestrain
+* [SelfControl](https://selfcontrolapp.com/) - Block access to websites for a period of time
+* [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - Set up virtual machines for testing and provisioning
+
+### Database Tools
+* [Sequel Pro](http://www.sequelpro.com/) - MySQL OS X client
+* [SQLite Database Browser](http://sqlitebrowser.org/) - View development databases
+
+### Graphics (Optional)
+* Adobe Illustrator ([available from campus](https://oit.nd.edu/software-downloads/)) - Vector editing; diagrams, SVG generation
+* Adobe Photoshop ([available from campus](https://oit.nd.edu/software-downloads/)) - Photo editing, for basic needs [Photos](http://www.apple.com/osx/photos/) is fine
+* [Adobe DNG Converter](https://www.adobe.com/support/downloads/product.jsp?platform=Macintosh&product=106) - Convert proprietary camera RAW files to an established standard
+* [ImageAlpha](https://pngmini.com/) - Optimized PNG transparency
+* [ImageOptim](https://imageoptim.com/) - Optimize PNG and JPEG encodings
+* [Sketch](https://www.sketchapp.com/) - Fantastic tool for creating wireframes; additional license required
+* [Sketch Toolbox](http://sketchtoolbox.com/) - Manage Sketch plug-ins
 
 ## Bootstrapping
 
