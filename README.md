@@ -37,6 +37,7 @@ These are some free and excellent walk-through resources.
 * [Codewars - Ruby](http://www.codewars.com/?language=ruby) - Learn some of the fundamentals of Ruby
 * [The Odin Project - Ruby on Rails](http://www.theodinproject.com/ruby-on-rails) - Learn Ruby on Rails by coding
 * [Git Immersion](http://gitimmersion.com) - Learn how to leverage Git for confident source code control
+* [Go Tour](https://tour.golang.org/welcome/1) - Overview of Go Programming language
 
 ## Technical Topics
 
@@ -52,8 +53,15 @@ _Note: I am working towards an exhaustive list. Yes this is intimidating but I w
 * Deployment / Application Keys
 * Deployment / Jenkins
 * Deployment / Documentation
+* Deployment / Puppet
 * Homebrew
 * Go
+* Go / Documentation / GoDoc
+* Go / Tools / Lint
+* Go / Tools / Vet
+* Go / Testing
+* Go / Testing / Code Coverage
+* Licences
 * Persistence / Databases / MySQL
 * Persistence / Databases / Sqlite
 * Persistence / Fedora Commons
@@ -79,6 +87,7 @@ _Note: I am working towards an exhaustive list. Yes this is intimidating but I w
 * Ruby / Gems / Toolbox
 * Ruby / Pry
 * Ruby / Rake
+* Ruby / Setting Up
 * Ruby / Testing
 * Ruby / Testing / Code Coverage
 * Ruby / Testing / MiniTest
@@ -96,12 +105,18 @@ _Note: I am working towards an exhaustive list. Yes this is intimidating but I w
 * Web / HTML
 * Web / HTML / Semantic Markup
 * Web / HTML / Data Attributes
+* Web / HTTP
+* Web / HTTP / Caching
+* Web / HTTP / Headers
+* Web / HTTP / Methods
+* Web / HTTP / Status Codes
 * Web / Javascript / jQuery
 * Web / Javascript / ReactJS
 * Web / Security
 * Web / Servers
 * Web / Servers / Apache
 * Web / Servers / Nginx
+* Web / URIs
 
 ## Project Hydra
 
@@ -133,6 +148,7 @@ _Note: I am working towards an exhaustive list. Yes this is intimidating but I w
 * Git / Github / Issues
 * Google Docs
 * HipCat
+* JIRA
 * Design/Planning Meetings
 * Semantic Versioning - https://semver.org
 * Stand Up Meetings
@@ -180,6 +196,7 @@ _Note: I am working towards an exhaustive list. Yes this is intimidating but I w
 * [ESCMenuExtra](http://esc.nd.edu/mac/menuextra.html) - Connect to SMB mounts on campus
 * [Graphviz](http://graphviz.org) - For viewing `dot` notation files; Installable via `homebrew`
 * [f.lux](https://justgetflux.com/) - Changes the screen color temperature based on the time of day, reduces eyestrain
+* [Mitmproxy](https://mitmproxy.org/) - A proxy useful for debugging HTTP client/server issues
 * [SelfControl](https://selfcontrolapp.com/) - Block access to websites for a period of time
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - Set up virtual machines for testing and provisioning
 
