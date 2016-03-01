@@ -51,6 +51,8 @@ _Note: I am working towards an exhaustive list. Yes this is intimidating but I w
 * Command Line / Zsh
 * Deployment
 * Deployment / Application Keys
+* Deployment / Capistrano
+  * `cap staging deploy -t -n` - A dry-run of the deploy task to the staging environment. Also display a trace of the tasks executed.
 * Deployment / Jenkins
 * Deployment / Documentation
 * Deployment / Puppet
