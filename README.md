@@ -35,6 +35,9 @@ You will still want a text editor, because sometimes you will need lightweight t
 These are some free and excellent walk-through resources.
 
 * [Codewars - Ruby](http://www.codewars.com/?language=ruby) - Learn some of the fundamentals of Ruby
+* Command Line Tutorials
+  * [General Tutorial](http://www.davidbaumgold.com/tutorials/command-line/)
+  * [OS X Specific Tutorial](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
 * [The Odin Project - Ruby on Rails](http://www.theodinproject.com/ruby-on-rails) - Learn Ruby on Rails by coding
 * [Git Immersion](http://gitimmersion.com) - Learn how to leverage Git for confident source code control
 * [Go Tour](https://tour.golang.org/welcome/1) - Overview of Go Programming language
