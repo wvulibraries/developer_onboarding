@@ -42,6 +42,7 @@ These are some free and excellent walk-through resources.
 * [The Odin Project - Ruby on Rails](http://www.theodinproject.com/ruby-on-rails) - Learn Ruby on Rails by coding
 * [Git Immersion](http://gitimmersion.com) - Learn how to leverage Git for confident source code control
 * [Go Tour](https://tour.golang.org/welcome/1) - Overview of Go Programming language
+* [Resources for new Go programmers](http://dave.cheney.net/resources-for-new-go-programmers)
 
 ## Technical Topics
 
