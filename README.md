@@ -133,7 +133,7 @@ _Note: I am working towards an exhaustive list. Yes this is intimidating but I w
   - [Wiki](https://wiki.duraspace.org/display/hydra/The+Hydra+Project)
 * ProjectHydra on Github
   - [Stable](https://github.com/projecthydra) - code that Project Hydra is committed to maintain
-  - [Labs](https://github.com/projecthydra-labs) - code that is in various stages of completion; No committment to maintain
+  - [Labs](https://github.com/projecthydra-labs) - code that is in various stages of completion; No commitment to maintain
 
 ## Recommended Reading
 
@@ -182,6 +182,14 @@ _Note: I am working towards an exhaustive list. Yes this is intimidating but I w
 
 ## Software
 
+## Bootstrapping
+
+The [DLT Dotfiles](https://github.com/ndlib/dlt-dotfiles/) project includes [a detailed runbook](https://github.com/ndlib/dlt-dotfiles/blob/master/Runbook.md) for provisioning a new development workstation.
+Start with that and add your own customizations as needed.
+
+Our eventual goal is to have a single script to run that would install/launch a given development context.
+In some cases we have pre-made VMs that can be spun up for development.
+
 ### Essentials
 * [Cyberduck](https://cyberduck.io/) - Copy files via FTP, SCP, S3, etc.
 * [Flycut](https://github.com/termiT/flycut) - A clipboard manager with 99 paste buffers
@@ -219,12 +227,3 @@ _Note: I am working towards an exhaustive list. Yes this is intimidating but I w
 * [ImageOptim](https://imageoptim.com/) - Optimize PNG and JPEG encodings
 * [Sketch](https://www.sketchapp.com/) - Fantastic tool for creating wireframes; additional license required
 * [Sketch Toolbox](http://sketchtoolbox.com/) - Manage Sketch plug-ins
-
-## Bootstrapping
-
-In our ideal world we would have a single script to run to install/launch a given development context.
-In some cases we have VMs that can be spun up for development.
-
-### Options to Explore
-
-* https://github.com/thoughtbot/laptop
