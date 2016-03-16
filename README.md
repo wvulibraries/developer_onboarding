@@ -34,7 +34,10 @@ You will still want a text editor, because sometimes you will need lightweight t
 
 These are some free and excellent walk-through resources.
 
-* [Codewars - Ruby](http://www.codewars.com/?language=ruby) - Learn some of the fundamentals of Ruby
+* Ruby Syntax
+  * [Ruby on CodeAcademy](https://www.codecademy.com/learn/ruby) - Learn some of the syntax of Ruby through coding
+  * [Codewars - Ruby](http://www.codewars.com/?language=ruby) - Learn some of the fundamentals of Ruby
+  * [Eloquent Ruby](http://eloquentruby.com/) - Learn about Ruby syntax from a book; For an experienced programmer coming to Ruby from another language
 * Command Line Tutorials
   * [General Tutorial](http://www.davidbaumgold.com/tutorials/command-line/)
   * [OS X Specific Tutorial](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
