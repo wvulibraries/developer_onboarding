@@ -1,0 +1,27 @@
+# Render via PlantUML
+# Generated via plantuml-preview (https://github.com/peele/plantuml-preview) in Atom
+@startuml
+
+title Draft Process Flow for Project Handoffs\nThe goal is formalizing the capture and handoff\nof relevant project information
+
+actor "Project Requestor"
+control "Project Submission Tool"
+actor "Cabinet"
+actor "Development Team"
+actor "Project Team"
+
+autonumber
+
+"Project Requestor" -> "Project Submission Tool" : Project Proposal
+"Project Submission Tool" -> "Cabinet" : Vetted Project Proposal
+"Cabinet" -> "Development Team" : Project Sizing Request
+note right: Receive high level details\nQuick turn-around expected\nTakes 30 minutes or so
+"Development Team" -> "Cabinet" : Project Sizing Response
+note left: Receive rough estimate (# of months)
+"Cabinet" -> "Cabinet" : Project Prioritization
+"Cabinet" -> "Development Team" : Research Spike (if applicable)
+note right: Assumes stakeholder involvement,\ngreater capture of specifics,\nrefined estimates
+"Development Team" -> "Cabinet" : Research Spike Findings
+"Cabinet" -> "Project Team" : Project Implementation Kickoff (if applicable)
+
+@enduml
