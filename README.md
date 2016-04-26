@@ -47,6 +47,8 @@ These are some free and excellent walk-through resources.
 
 #### Engine API
 
+* [Lamp Stack/MVP Videos](https://www.youtube.com/playlist?list=PLTBgNwvH0GyxEgi9_BOOa-38ZSGqoAaaS)
+
 ### Ruby
 
 * [Codewars - Ruby](http://www.codewars.com/?language=ruby) - Learn some of the fundamentals of Ruby
