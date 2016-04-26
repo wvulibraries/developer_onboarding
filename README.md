@@ -1,23 +1,30 @@
 # Developer Onboarding
 
-The goal of this repository is to provide resources for new developers at the Hesburgh Libraries.
+The goal of this repository is to provide resources for new developers at the WVU Libraries.
+
+This resource was forked from: [Norte Dame's Hesburgh Library](https://github.com/ndlib/developer_onboarding)
 
 ## Text Editor or Integrated Development Environment (IDE)
 
 Your text editor is a personal experience and something to consider.
 It is also something you should be prepared to invest energy in learning more about.
 
-At the Hesburgh Library the following text editors are used:
+At the WVU Libraries the following text editors are used:
 
 * [Atom](https://atom.io/)
-* [Vim](http://www.vim.org/)
+* [Emacs](http://www.emacswiki.org/)
+* [Notepad++](https://notepad-plus-plus.org/)
 * [Sublime Text](https://www.sublimetext.com/)
-* [RubyMine](https://www.jetbrains.com/ruby/)
+* [Vi](http://www.vim.org/)
 
-If you don't have experience with `vim` it is a harder tool to learn.
-However `vim` is available on most every remote machine that you would log into.
-At some point you'll want a passing familiarity with `vim`.
-There are extensive plugins.
+
+Emacs and Vi(m) are primarily used for editing files on linux servers, but are
+completely capable editors on the desktop as well. If you don't have experience
+with `vim` or `Emacs` it is a harder tool to learn.
+
+However `vim` and `Emacs` is available on every remote machine that you would
+log into at WVU Libraries. At some point you'll want a passing familiarity with
+either `vim` or `Emacs`. There are extensive plugins.
 
 Atom is a great choice as it is open-source and free.
 It is built on web technologies (i.e. HTML, CSS, and JS).
@@ -27,24 +34,157 @@ Sublime Text is under active development but is not open-source nor free.
 We can get a license if you are interested.
 There are extensive plugins.
 
-RubyMine is an IDE. Its much more heavy weight but provides the power of an IDE.
-You will still want a text editor, because sometimes you will need lightweight text editing.
+Notepad++ is a syntax highlighting text editor for Windows.
 
 ## Training Resources
 
 These are some free and excellent walk-through resources.
 
+### PHP
+
+* [Learn PHP](http://learn-php.org/) - Fundamentals of PHP
+* [Quackit PHP Tutorial](http://www.quackit.com/php/tutorial/) - Fundamentals of PHP
+
+#### Engine API
+
+### Ruby
+
 * [Codewars - Ruby](http://www.codewars.com/?language=ruby) - Learn some of the fundamentals of Ruby
-* Command Line Tutorials
-  * [General Tutorial](http://www.davidbaumgold.com/tutorials/command-line/)
-  * [OS X Specific Tutorial](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
-  * [Some Tricks](http://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192)
 * [The Odin Project - Ruby on Rails](http://www.theodinproject.com/ruby-on-rails) - Learn Ruby on Rails by coding
+
+### Linux / Command Line
+
+* [General Tutorial](http://www.davidbaumgold.com/tutorials/command-line/)
+* [OS X Specific Tutorial](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
+* [Some Tricks](http://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192)
+
+### General Tutorials
+
 * [Git Immersion](http://gitimmersion.com) - Learn how to leverage Git for confident source code control
-* [Go Tour](https://tour.golang.org/welcome/1) - Overview of Go Programming language
-* [Resources for new Go programmers](http://dave.cheney.net/resources-for-new-go-programmers)
+* [Screen](https://www.rackaid.com/blog/linux-screen-tutorial-and-how-to/) - tool to keep console alive on server after disconnecting
+* [Tmux](https://danielmiessler.com/study/tmux/) - similar to screen, but more powerful
+
+
+
+## Software
+
+### Essentials
+
+* Chat Clients
+  * [Colloquy](http://colloquy.info/) - IRC Chat Client for OS X
+  * [Skype](http://www.skype.com/en/download-skype/skype-for-mac/) - Our primary means of video calling
+  * [Slack](http://slack.com) - Group collaboration tools
+  * [X-Chat](http://xchat.org/) - IRC Client for Linux and Windows
+* File Transfer Clients
+  * [Cyberduck](https://cyberduck.io/) - Copy files via FTP, SCP, S3, etc.
+  * [Transmit](https://panic.com/transmit) - And excellent, but Non-Free, File Transfer client, for OS X
+* General
+  * [Format Match](http://lifehacker.com/5863312/formatmatch-for-mac-pastes-text-in-all-applications-without-formatting) - Removes formatting from text that is copied. For OS X
+  * [Mackup](https://github.com/lra/mackup) - Create backup of all your configurations in dropbox, for OS X
+  * [Vagrant](https://www.vagrantup.com/) - Virtualization environment for development
+  * [Xcode](https://itunes.apple.com/us/app/xcode/id497799835) - Needed in order to build development dependencies/Install OS X command line tools
+* Git Clients
+  * [Github Desktop](https://desktop.github.com/) - Git and Github OS X client
+  * [Tower](https://www.git-tower.com/) - Non-Free Git and Github Client for OS X.
+* Web Browsers
+  * [Google Chrome](https://www.google.com/chrome/browser/desktop/) - Our primary browser for development
+  * [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) - Secondary browser
+
+### Command Line Tools
+
+* [Bash completion](https://github.com/scop/bash-completion) - Tab completion for commands
+* [Homebrew](http://brew.sh) - Package manager for OS X
+* [The Silver Searcher](https://github.com/ggreer/the_silver_searcher) - Command Line search Tool
+
+### Database Tools
+* [Sequel Pro](http://www.sequelpro.com/) - MySQL OS X client
+* [SQLite Database Browser](http://sqlitebrowser.org/) - View development databases
+
+### Optional
+
+#### Graphics
+
+* Adobe Illustrator - Vector editing; diagrams, SVG generation
+* Adobe Photoshop- Photo editing
+* [Affinity Designer](https://affinity.serif.com/en-us/designer/) - An easier to use Vector Graphics tool, for OS X
+* [ImageAlpha](https://pngmini.com/) - Optimized PNG transparency
+* [ImageOptim](https://imageoptim.com/) - Optimize PNG and JPEG encodings
+* [Pixelmator](http://www.pixelmator.com/mac/) - Photoshop replacement, that's easier to use, for OS X
+
+#### Utilities
+
+* [A Better Finder Rename](http://www.publicspace.net/ABetterFinderRename/) - Non-Free file renaming utility, for OS X
+* [Better Touch Tool](https://www.boastr.net/) - Program functionality for your trackpad or mouse, for OS X
 
 ## Technical Topics
+
+## Project Hydra
+
+* [Project Hydra homepage](http://projecthydra.org/)
+  - [Hierarchy of Promises](https://wiki.duraspace.org/display/hydra/Hydra+Stack+-+The+Hierarchy+of+Promises)
+  - [Intellectual Property Licensing and Ownership](https://wiki.duraspace.org/display/hydra/Hydra+Project+Intellectual+Property+Licensing+and+Ownership)
+  - [Wiki](https://wiki.duraspace.org/display/hydra/The+Hydra+Project)
+* ProjectHydra on Github
+  - [Stable](https://github.com/projecthydra) - code that Project Hydra is committed to maintain
+  - [Labs](https://github.com/projecthydra-labs) - code that is in various stages of completion; No commitment to maintain
+
+## Recommended Reading
+
+* Agile Software Architecture
+* Art of Agile Development
+* Ansible Configuration Management
+* Git Best Practices Guide
+* Mastering Node.js
+* Mastering Regular Expressions
+* Modern PHP
+* Mongo, The Definitive Guide 2nd Edition
+* Node Beginner
+* Programming Elixir
+* Programming Perl
+* Software Engineering
+* Text Processing with Ruby
+
+## Collaboration
+
+* Code of Conduct
+* Code Review
+* Documentation
+* Documentation / Ruby
+* Daily Status Updates
+* Git
+* Git / Commit Messages
+* Git / Github
+* Git / Github / Pull Requests
+* Git / Github / Issues
+* Google Docs
+* JIRA
+* Design/Planning Meetings
+* Semantic Versioning - https://semver.org
+* Stand Up Meetings
+* Style Guides
+* Style Guides / Automation
+* Trello
+
+## Useful Syntaxes
+
+* Bash Script (`.sh`)
+* JSON (`.json`, `.js`)
+* JSON-LD (`.json`)
+* JSON-API (`.json`)
+* Markdown (`.md`)
+* Perl (`.pl`)
+* PHP (`.php`)
+* PlantUML (`.puml`)
+* Python (`.py`)
+* RDF N-Triples (`.nt`)
+* Regular Expressions (REGEX)
+* RSpec (`\_spec.rb`)
+* Ruby (`.rb`)
+* Schema.org
+* XML (`.xml`)
+* YAML (`.yml`, `.yaml`)
+
+## To be removed?
 
 _Note: I am working towards an exhaustive list. Yes this is intimidating but I want to then work towards a logical presentation._
 
@@ -124,106 +264,3 @@ _Note: I am working towards an exhaustive list. Yes this is intimidating but I w
 * Web / Servers / Apache
 * Web / Servers / Nginx
 * Web / URIs
-
-## Project Hydra
-
-* [Project Hydra homepage](http://projecthydra.org/)
-  - [Hierarchy of Promises](https://wiki.duraspace.org/display/hydra/Hydra+Stack+-+The+Hierarchy+of+Promises)
-  - [Intellectual Property Licensing and Ownership](https://wiki.duraspace.org/display/hydra/Hydra+Project+Intellectual+Property+Licensing+and+Ownership)
-  - [Wiki](https://wiki.duraspace.org/display/hydra/The+Hydra+Project)
-* ProjectHydra on Github
-  - [Stable](https://github.com/projecthydra) - code that Project Hydra is committed to maintain
-  - [Labs](https://github.com/projecthydra-labs) - code that is in various stages of completion; No commitment to maintain
-
-## Recommended Reading
-
-* [Practical Object Oriented Design in Ruby](http://www.poodr.com/)
-* The Pragmatic Programmer
-* [Semantic Web for the Working Ontologist](http://www.amazon.com/Semantic-Web-Working-Ontologist-Effective/dp/0123735564)
-
-## Collaboration
-
-* Code of Conduct
-* Code Review
-* Documentation
-* Documentation / Ruby
-* Daily Status Updates
-* Git
-* Git / Commit Messages
-* Git / Github
-* Git / Github / Pull Requests
-* Git / Github / Issues
-* Google Docs
-* HipCat
-* JIRA
-* Design/Planning Meetings
-* Semantic Versioning - https://semver.org
-* Stand Up Meetings
-* Style Guides
-* Style Guides / Automation
-* Trello
-
-## Useful Syntaxes
-
-* Dot Notation (`.dot`)
-  * Graphviz (available via Homebrow) is useful for viewing `dot` files
-* JSON (`.json`, `.js`)
-* JSON-LD (`.json`)
-* JSON-API (`.json`)
-* Markdown (`.md`)
-* PlantUML (`.puml`)
-* RDF N-Triples (`.nt`)
-* Regular Expressions (REGEX)
-* RSpec (`\_spec.rb`)
-* Ruby (`.rb`)
-* Schema.org
-* XML (`.xml`)
-* YAML (`.yml`, `.yaml`)
-
-## Software
-
-## Bootstrapping
-
-The [DLT Dotfiles](https://github.com/ndlib/dlt-dotfiles/) project includes [a detailed runbook](https://github.com/ndlib/dlt-dotfiles/blob/master/Runbook.md) for provisioning a new development workstation.
-Start with that and add your own customizations as needed.
-
-Our eventual goal is to have a single script to run that would install/launch a given development context.
-In some cases we have pre-made VMs that can be spun up for development.
-
-### Essentials
-* [Cyberduck](https://cyberduck.io/) - Copy files via FTP, SCP, S3, etc.
-* [Flycut](https://github.com/termiT/flycut) - A clipboard manager with 99 paste buffers
-* [Github Desktop](https://desktop.github.com/) - Git and Github OS X client
-* [Google Chrome](https://www.google.com/chrome/browser/desktop/) - Our primary browser for development
-* [HipChat](https://www.hipchat.com/downloads) - chat client for Library
-* [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) - Secondary browser
-* [Skitch](https://evernote.com/skitch/) - Annotate screen shots
-* [Skype](http://www.skype.com/en/download-skype/skype-for-mac/) - Our primary means of video calling
-* [Xcode](https://itunes.apple.com/us/app/xcode/id497799835) - Needed in order to build development dependencies
-
-### Command Line Tools
-
-* [Homebrew](http://brew.sh) - Package manager for OS X
-
-### Optional Utilities
-* [Anki](http://ankisrs.net/) - Intelligent flash card tool
-* [Caffeine](http://lightheadsw.com/caffeine/) - Keep your Mac from falling asleep, occasionally useful
-* [ESCMenuExtra](http://esc.nd.edu/mac/menuextra.html) - Connect to SMB mounts on campus
-* [Graphviz](http://graphviz.org) - For viewing `dot` notation files; Installable via `homebrew`
-* [f.lux](https://justgetflux.com/) - Changes the screen color temperature based on the time of day, reduces eyestrain
-* [Mitmproxy](https://mitmproxy.org/) - A proxy useful for debugging HTTP client/server issues
-* [SelfControl](https://selfcontrolapp.com/) - Block access to websites for a period of time
-* [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - Set up virtual machines for testing and provisioning
-
-### Database Tools
-* [Sequel Pro](http://www.sequelpro.com/) - MySQL OS X client
-* [SQLite Database Browser](http://sqlitebrowser.org/) - View development databases
-
-### Graphics (Optional)
-* Adobe Illustrator ([available from campus](https://oit.nd.edu/software-downloads/)) - Vector editing; diagrams, SVG generation
-* Adobe Photoshop ([available from campus](https://oit.nd.edu/software-downloads/)) - Photo editing, for basic needs [Photos](http://www.apple.com/osx/photos/) is fine
-* [Adobe DNG Converter](https://www.adobe.com/support/downloads/product.jsp?platform=Macintosh&product=106) - Convert proprietary camera RAW files to an established standard
-* [ImageAlpha](https://pngmini.com/) - Optimized PNG transparency
-* [ImageOptim](https://imageoptim.com/) - Optimize PNG and JPEG encodings
-* [Sketch](https://www.sketchapp.com/) - Fantastic tool for creating wireframes; additional license required
-* [Sketch Toolbox](http://sketchtoolbox.com/) - Manage Sketch plug-ins
