@@ -36,6 +36,13 @@ There are extensive plugins.
 
 Notepad++ is a syntax highlighting text editor for Windows.
 
+### Font
+
+Font is an often over looked piece of your development enviornment. Be sure to choose a monospaced, serif, font. 
+
+* [10 Programming Fonts](http://hivelogic.com/articles/top-10-programming-fonts/)
+* [Programming Fonts](http://programmingfonts.org/)
+
 ## Training Resources
 
 These are some free and excellent walk-through resources.
