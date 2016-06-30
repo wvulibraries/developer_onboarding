@@ -20,7 +20,7 @@ At the WVU Libraries the following text editors are used:
 
 Emacs and Vi(m) are primarily used for editing files on linux servers, but are
 completely capable editors on the desktop as well. If you don't have experience
-with `vim` or `Emacs` it is a harder tool to learn.
+with `vim` or `Emacs` they are harder tools to learn.
 
 However `vim` and `Emacs` is available on every remote machine that you would
 log into at WVU Libraries. At some point you'll want a passing familiarity with
@@ -29,16 +29,16 @@ either `vim` or `Emacs`. There are extensive plugins.
 Atom is a great choice as it is open-source and free.
 It is built on web technologies (i.e. HTML, CSS, and JS).
 There are extensive plugins / often under rapid and perhaps volatile development.
+Atom is also cross platform, available on Linux, Mac, and Windows.
 
 Sublime Text is under active development but is not open-source nor free.
-We can get a license if you are interested.
-There are extensive plugins.
+We can get a license if you are interested. There are extensive plugins.
 
 Notepad++ is a syntax highlighting text editor for Windows.
 
 ### Font
 
-Font is an often over looked piece of your development enviornment. Be sure to choose a monospaced, serif, font. 
+Font is an often over looked piece of your development enviornment. Be sure to choose a monospaced, serif, font.
 
 * [10 Programming Fonts](http://hivelogic.com/articles/top-10-programming-fonts/)
 * [Programming Fonts](http://programmingfonts.org/)
@@ -64,16 +64,37 @@ These are some free and excellent walk-through resources.
 ### Linux / Command Line
 
 * [General Tutorial](http://www.davidbaumgold.com/tutorials/command-line/)
+* [Learning the Shell](http://linuxcommand.org/lc3_learning_the_shell.php)
 * [OS X Specific Tutorial](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
 * [Some Tricks](http://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192)
+* [Writing Shell Scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php)
+
+### MySQL
+
+* [Tutorial](http://www.tutorialspoint.com/mysql/)
 
 ### General Tutorials
 
 * [Git Immersion](http://gitimmersion.com) - Learn how to leverage Git for confident source code control
 * [Screen](https://www.rackaid.com/blog/linux-screen-tutorial-and-how-to/) - tool to keep console alive on server after disconnecting
 * [Tmux](https://danielmiessler.com/study/tmux/) - similar to screen, but more powerful
+* [Vagrant](https://www.vagrantup.com/docs/getting-started/) - Virtual Development / Sandboxing enviornment
+  * Note: WVU Libraries maintains its own vagrant boxes on https://vagrant.lib.wvu.edu
 
+### Javascript
 
+* [Javascript.info](http://javascript.info/)
+* [w3Schools](http://www.w3schools.com/js/default.asp)
+* [Code Pen](http://codepen.io/)
+
+### Ansible
+
+* [Ansible Tutorials](http://www.ansibletutorials.com/)
+
+### HTML & CSS
+
+* [HTML5 & CSS3](http://www.html5andcss3.org/)
+* [Code Pen](http://codepen.io/)
 
 ## Software
 
@@ -85,8 +106,9 @@ These are some free and excellent walk-through resources.
   * [Slack](http://slack.com) - Group collaboration tools
   * [X-Chat](http://xchat.org/) - IRC Client for Linux and Windows
 * File Transfer Clients
-  * [Cyberduck](https://cyberduck.io/) - Copy files via FTP, SCP, S3, etc.
-  * [Transmit](https://panic.com/transmit) - And excellent, but Non-Free, File Transfer client, for OS X
+  * [Cyberduck](https://cyberduck.io/) (Windows, Mac)- Copy files via FTP, SCP, S3, etc.
+  * [Filezilla](https://filezilla-project.org/) (Linux, Mac, Windows) - Basic SFTP/FTP client
+  * [Transmit](https://panic.com/transmit) (Mac) - An excellent, but Non-Free, File Transfer client, for OS X
 * General
   * [Format Match](http://lifehacker.com/5863312/formatmatch-for-mac-pastes-text-in-all-applications-without-formatting) - Removes formatting from text that is copied. For OS X
   * [Mackup](https://github.com/lra/mackup) - Create backup of all your configurations in dropbox, for OS X
@@ -94,6 +116,7 @@ These are some free and excellent walk-through resources.
   * [Xcode](https://itunes.apple.com/us/app/xcode/id497799835) - Needed in order to build development dependencies/Install OS X command line tools
 * Git Clients
   * [Github Desktop](https://desktop.github.com/) - Git and Github OS X client
+  * [Git Kraken](https://www.gitkraken.com/) (Linux, Mac, Windows)- Open Source git client
   * [Tower](https://www.git-tower.com/) - Non-Free Git and Github Client for OS X.
 * Web Browsers
   * [Google Chrome](https://www.google.com/chrome/browser/desktop/) - Our primary browser for development
@@ -101,9 +124,10 @@ These are some free and excellent walk-through resources.
 
 ### Command Line Tools
 
-* [Bash completion](https://github.com/scop/bash-completion) - Tab completion for commands
-* [Homebrew](http://brew.sh) - Package manager for OS X
+* [Bash completion](https://github.com/scop/bash-completion) (Linux, Mac)- Tab completion for commands
+* [Homebrew](http://brew.sh) - Package manager for OS X. Useful for install utilities such as wget, silver search, etc ...
 * [The Silver Searcher](https://github.com/ggreer/the_silver_searcher) - Command Line search Tool
+* wget - used for downloading, archiving, and stress testing websites
 
 ### Database Tools
 * [Sequel Pro](http://www.sequelpro.com/) - MySQL OS X client
@@ -136,6 +160,7 @@ These are some free and excellent walk-through resources.
 * ProjectHydra on Github
   - [Stable](https://github.com/projecthydra) - code that Project Hydra is committed to maintain
   - [Labs](https://github.com/projecthydra-labs) - code that is in various stages of completion; No commitment to maintain
+* [Dive into Hydra](https://github.com/projecthydra/hydra/wiki/Dive-into-Hydra)
 
 ## Recommended Reading
 
