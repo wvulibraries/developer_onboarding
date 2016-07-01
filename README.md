@@ -95,6 +95,7 @@ These are some free and excellent walk-through resources.
 
 * [HTML5 & CSS3](http://www.html5andcss3.org/)
 * [Code Pen](http://codepen.io/)
+* [Cheat Sheet](https://github.com/wvulibraries/developer_onboarding/blob/master/html/html_cheatsheet.png)
 
 ## Software
 
@@ -178,123 +179,11 @@ These are some free and excellent walk-through resources.
 * Software Engineering
 * Text Processing with Ruby
 
-## Collaboration
+## Documentation
 
-* Code of Conduct
-* Code Review
-* Documentation
-* Documentation / Ruby
-* Daily Status Updates
-* Git
-* Git / Commit Messages
-* Git / Github
-* Git / Github / Pull Requests
-* Git / Github / Issues
-* Google Docs
-* JIRA
-* Design/Planning Meetings
-* Semantic Versioning - https://semver.org
-* Stand Up Meetings
-* Style Guides
-* Style Guides / Automation
-* Trello
+WVU Libraries Development team stores all of its documentation in Github.
+Available in this private Repo ( All WVU Library team members have read access ):
+[Documents](https://github.com/wvulibraries/documents)
 
-## Useful Syntaxes
-
-* Bash Script (`.sh`)
-* JSON (`.json`, `.js`)
-* JSON-LD (`.json`)
-* JSON-API (`.json`)
-* Markdown (`.md`)
-* Perl (`.pl`)
-* PHP (`.php`)
-* PlantUML (`.puml`)
-* Python (`.py`)
-* RDF N-Triples (`.nt`)
-* Regular Expressions (REGEX)
-* RSpec (`\_spec.rb`)
-* Ruby (`.rb`)
-* Schema.org
-* XML (`.xml`)
-* YAML (`.yml`, `.yaml`)
-
-## To be removed?
-
-_Note: I am working towards an exhaustive list. Yes this is intimidating but I want to then work towards a logical presentation._
-
-* Command Line
-* Command Line / Configuring Your Experience
-* Command Line / Dotfiles
-* Command Line / SSH
-* Command Line / Bash
-* Command Line / Zsh
-* Deployment
-* Deployment / Application Keys
-* Deployment / Capistrano
-  * `cap staging deploy -t -n` - A dry-run of the deploy task to the staging environment. Also display a trace of the tasks executed.
-* Deployment / Jenkins
-* Deployment / Documentation
-* Deployment / Puppet
-* Homebrew
-* Go
-* Go / Documentation / GoDoc
-* Go / Tools / Lint
-* Go / Tools / Vet
-* Go / Testing
-* Go / Testing / Code Coverage
-* Licences
-* Persistence / Databases / MySQL
-* Persistence / Databases / Sqlite
-* Persistence / Fedora Commons
-* Persistence / Redis
-* Persistence / SOLR
-* Rails
-* Rails / ActiveRecord
-* Rails / API Documentation
-* Rails / Application Keys
-* Rails / Console
-* Rails / Deployment
-* Rails / Guides
-* Rails / ProjectHydra
-* Rails / ProjectHydra / Blacklight
-* Rails / ProjectHydra / ActiveFedora
-* Ruby
-* Ruby / Bundler
-* Ruby / Debugging
-* Ruby / Documentation
-* Ruby / Documentation / Yard
-* Ruby / Gemfile.lock
-* Ruby / Gems
-* Ruby / Gems / Toolbox
-* Ruby / Pry
-* Ruby / Rake
-* Ruby / Setting Up
-* Ruby / Testing
-* Ruby / Testing / Code Coverage
-* Ruby / Testing / MiniTest
-* Ruby / Testing / Rspec
-* Ruby / Testing / Capybara
-* Ruby / Version Management
-* Testing
-* Testing / Acceptance
-* Testing / Functional
-* Testing / Unit
-* Version Control / Git
-* Web / CSS
-* Web / CSS / Frameworks
-* Web / Developer Tools
-* Web / HTML
-* Web / HTML / Semantic Markup
-* Web / HTML / Data Attributes
-* Web / HTTP
-* Web / HTTP / Caching
-* Web / HTTP / Headers
-* Web / HTTP / Methods
-* Web / HTTP / Status Codes
-* Web / Javascript / jQuery
-* Web / Javascript / ReactJS
-* Web / Security
-* Web / Servers
-* Web / Servers / Apache
-* Web / Servers / Nginx
-* Web / URIs
+* [Style Guide](https://github.com/wvulibraries/Documents/blob/master/Programming%20and%20Development/Systems%20Programming%20Standards%20%26%20Guidelines.md)
+* [Expectations](https://github.com/wvulibraries/Documents/blob/master/Programming%20and%20Development/Developer%20Expectations.md)
