@@ -165,6 +165,13 @@ These are some free and excellent walk-through resources.
 
 ## Recommended Reading
 
+These books are available on for WVU Library Employees. You may not distribute
+these books. If you your employement with WVU Libraries is terminated, you must
+delete these books from your computer/device.
+
+The books are located in this private Repo:
+[https://github.com/wvulibraries/books](https://github.com/wvulibraries/books)
+
 * Agile Software Architecture
 * Art of Agile Development
 * Ansible Configuration Management
