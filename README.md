@@ -43,6 +43,9 @@ Font is an often over looked piece of your development enviornment. Be sure to c
 * [10 Programming Fonts](http://hivelogic.com/articles/top-10-programming-fonts/)
 * [Programming Fonts](http://programmingfonts.org/)
 
+* [Source Code Pro](https://www.fontsquirrel.com/fonts/source-code-pro) - An open source, monospace, font by adobe. Works well on Linux and macOS.
+  * To install source code pro on Fedora linux (24): dnf install adobe-source-code-pro-fonts
+
 ## Training Resources
 
 These are some free and excellent walk-through resources.
