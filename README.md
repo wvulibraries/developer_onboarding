@@ -78,7 +78,6 @@ These are some free and excellent walk-through resources.
 
 ### General Tutorials
 
-* [Git Immersion](http://gitimmersion.com) - Learn how to leverage Git for confident source code control
 * [Screen](https://www.rackaid.com/blog/linux-screen-tutorial-and-how-to/) - tool to keep console alive on server after disconnecting
 * [Tmux](https://danielmiessler.com/study/tmux/) - similar to screen, but more powerful
 * [Vagrant](https://www.vagrantup.com/docs/getting-started/) - Virtual Development / Sandboxing enviornment
@@ -99,6 +98,12 @@ These are some free and excellent walk-through resources.
 * [HTML5 & CSS3](http://www.html5andcss3.org/)
 * [Code Pen](http://codepen.io/)
 * [Cheat Sheet](https://github.com/wvulibraries/developer_onboarding/blob/master/html/html_cheatsheet.png)
+
+### Git
+
+* [Reverts and Resets](https://git-scm.com/blog/2010/03/02/undoing-merges.html)
+* [Git Immersion](http://gitimmersion.com) - Learn how to leverage Git for confident source code control
+* [Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
 
 ## Software
 
