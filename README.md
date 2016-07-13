@@ -117,6 +117,11 @@ this section isnt meant to be an exhaustive source of information on security, b
 * [Click Jacking](https://en.m.wikipedia.org/wiki/Clickjacking)
 * [SQL Injection](https://en.m.wikipedia.org/wiki/SQL_injection)
 
+### Concepts
+
+* [Refactoring](https://en.m.wikipedia.org/wiki/Code_refactoring)
+* [DRY](https://en.m.wikipedia.org/wiki/Don%27t_repeat_yourself)
+
 ## Software
 
 ### Essentials
