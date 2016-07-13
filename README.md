@@ -104,6 +104,18 @@ These are some free and excellent walk-through resources.
 * [Reverts and Resets](https://git-scm.com/blog/2010/03/02/undoing-merges.html)
 * [Git Immersion](http://gitimmersion.com) - Learn how to leverage Git for confident source code control
 * [Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
+* [Setup 2 Factor Authentication](https://github.com/blog/1614-two-factor-authentication)
+
+### Security
+
+this section isnt meant to be an exhaustive source of information on security, but a place to start.
+
+* [Why 2 Factor Auth](http://www.makeuseof.com/tag/what-is-two-factor-authentication-and-why-you-should-use-it/)
+  * [Google Authenticator App](https://en.m.wikipedia.org/wiki/Google_Authenticator) -- Mike's preferred two factor generator
+* [CSRF](https://en.m.wikipedia.org/wiki/Cross-site_request_forgery)
+* [Cross site scripting](https://en.m.wikipedia.org/wiki/Cross-site_scripting)
+* [Click Jacking](https://en.m.wikipedia.org/wiki/Clickjacking)
+* [SQL Injection](https://en.m.wikipedia.org/wiki/SQL_injection)
 
 ## Software
 
