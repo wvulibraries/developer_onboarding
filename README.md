@@ -110,6 +110,7 @@ These are some free and excellent walk-through resources.
 
 this section isnt meant to be an exhaustive source of information on security, but a place to start.
 
+* FallibleInc's [Guide to Security for Developers](https://github.com/FallibleInc/security-guide-for-developers/) 
 * [Why 2 Factor Auth](http://www.makeuseof.com/tag/what-is-two-factor-authentication-and-why-you-should-use-it/)
   * [Google Authenticator App](https://en.m.wikipedia.org/wiki/Google_Authenticator) -- Mike's preferred two factor generator
 * [CSRF](https://en.m.wikipedia.org/wiki/Cross-site_request_forgery)
